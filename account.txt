@@ -1,0 +1,10 @@
+1000*100*Checking
+1001*200*Savings
+2000*420*401K
+2001*2323*Family
+1234*200*Banking
+4200*3000*Dog Account
+4000*20000*Family
+5678*7888*Dog
+890*9000*Cat
+6940*4000*Goat
